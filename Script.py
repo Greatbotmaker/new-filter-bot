@@ -313,6 +313,8 @@ Do as you wish with telegra.ph module!
 • This Command Can be used by everyone
 
 ©️ MᴀɪɴᴛᴀɪɴᴇD Bʏ : <a href='https://t.me/+auX77kg8XeI5YTI1'>♠️ 𝗶 𝗣𝗮𝗽𝗸𝗼𝗿𝗻 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 🎬</a>"""
+    LYRICS_TEXT = """By using
+    /lyrics <song name>"""
 
     JSON_TXT ="""<b>Owner And Developer:</b>
 
